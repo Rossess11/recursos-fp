@@ -19,6 +19,10 @@
 
 ---
 
+##Prueba de enlace
+
+Acceede a [siguiente documentacion](documentacion2.html)
+
 ## Introducción
 
 El script `array.sh` es un programa educativo escrito en Bash que demuestra las operaciones fundamentales con arrays (arreglos) en este lenguaje de programación. A través de ejemplos prácticos, el script ilustra cómo declarar, acceder, modificar y manipular arrays de manera efectiva. Este tipo de scripts son especialmente útiles para quienes desean aprender programación en Bash, ya que proporciona una base sólida para entender cómo se estructuran y se manipulan colecciones de datos en este lenguaje.
